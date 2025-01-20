@@ -28,7 +28,7 @@
     "react-dom": "18.2.0",
     "server-only": "0.0.1",
     "sharp": "0.33.3",
-    "styled-components": "6.1.8",
+    "styled-components": "6.1.13",
     "use-count-up": "3.0.1",
     "vercel": "34.0.0"
   },
